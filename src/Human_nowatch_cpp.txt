@@ -1,0 +1,17 @@
+/*
+ * Human.cpp
+ *
+ *  Created on: Apr 19, 2020
+ *      Author: keith
+ */
+
+#include "Human.h"
+
+Human::Human() {
+	//	if passed a watch then this human has a watch but
+	//could be passed a null pointer as well
+}
+
+Human::~Human() {
+	// TODO Auto-generated destructor stub
+}
